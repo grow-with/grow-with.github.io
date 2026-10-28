@@ -1,0 +1,7 @@
+[ko]
+    label  = "한국어"
+    title  = "grow-with 블로그"
+    weight = 1
+
+    [ko.params.sidebar]
+        subtitle = "함께 성장하는 블로그"

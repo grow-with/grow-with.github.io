@@ -1,0 +1,6 @@
+baseURL = "https://YOUR_GITHUB_ID.github.io/"
+languageCode = "ko-kr"
+title = "Grow With Blog"
+theme = "hugo-theme-stack"
+
+defaultContentLanguage = "ko"

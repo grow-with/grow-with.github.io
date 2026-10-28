@@ -1,0 +1,13 @@
+baseURL                = "https://grow-with.github.io/"
+locale                 = "ko-kr"
+title                  = "grow-with 블로그"
+defaultContentLanguage = "ko"
+hasCJKLanguage         = true
+theme                  = "hugo-theme-stack"
+
+[pagination]
+    pagerSize = 5
+
+[permalinks]
+    post = "/p/:slug/"
+    page = "/:slug/"
